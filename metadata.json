@@ -1,0 +1,12 @@
+{
+  "name": "plan your week",
+  "description": "A smart scheduling assistant for students that converts syllabus photos and flyers into Google Calendar events using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered image analysis",
+    "Google Calendar integration",
+    "Interactive timeline dashboard"
+  ]
+}
